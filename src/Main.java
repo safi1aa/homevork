@@ -6,28 +6,28 @@ public class Main {
         int dni = scan.nextInt();
         switch (dni){
             case 1:
-                System.out.println(" Kyrgyzkii");
+                System.out.println("киргизкий");
                 break;
             case 2:
-                System.out.println(" matematika ");
+                System.out.println("матем");
                 break;
             case 3:
-                System.out.println(" Russkii");
+                System.out.println("русский");
                 break;
             case 4:
-                System.out.println(" Chercheniya ");
+                System.out.println("биолог");
                 break;
             case 5:
-                System.out.println(" Fizra ");
+                System.out.println("физра");
                 break;
             case 6:
-                System.out.println(" Vyxodnoi ");
+                System.out.println("химия");
                 break;
             case 7:
-                System.out.println(" Vyxodnoi ");
+                System.out.println("свободны");
                 break;
             default:
-                System.out.println("takogo dnya ne sushestvuet");
+                System.out.println("такого дня нет");
                 break;
             case 8:
         }
