@@ -29,6 +29,7 @@ public class Main {
             default:
                 System.out.println("takogo dnya ne sushestvuet");
                 break;
+            case 8:
         }
     }
 }
